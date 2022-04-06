@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Gargi Srivastava](mailto:gargi.srivastva@owasp.org)
+* [Prameya Singh Soni](mailto:prameyasingh.soni@owasp.org)
+* [Harshit Singh](mailto:harshit.singh@owasp.org)
