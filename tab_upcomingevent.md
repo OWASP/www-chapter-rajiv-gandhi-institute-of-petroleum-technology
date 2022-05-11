@@ -1,6 +1,6 @@
 ---
 title: upcoming_event
-displayrext: Upcoming Event
+displaytext: Upcoming Event
 layout:  null
 tab: true
 order: 1
