@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Upcoming Event
 layout:  null
 tab: true
 order: 1
