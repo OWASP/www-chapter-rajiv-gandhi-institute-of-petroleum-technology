@@ -7,6 +7,6 @@ order: 1
 tags: example-tag
 ---
 
-## Upcomming Event
+## Upcoming Event
 
 comming soon !!!
