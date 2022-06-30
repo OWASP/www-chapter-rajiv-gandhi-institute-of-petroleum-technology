@@ -1,5 +1,5 @@
 ### Leaders
-* [Prameya Singh Soni]
+* [Prameya Singh Soni](mailto:prameyasingh.soni@owasp.org)
 * [Aryaman Raj] 
-* [Ayush Gupta]
-* [Gargi Srivastava] 
+* [Ayush Gupta])
+* [Gargi Srivastava](mailto:gargi.srivastava@owasp.org)
