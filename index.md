@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Rajiv Gandhi Institute of Petroleum Technology
 tags: example-tag
 region: Asia
-meetup-group:owasp-rajiv-gandhi-institute-of-petroleum-technology
+meetup-group: owasp-rajiv-gandhi-institute-of-petroleum-technology
 
 ---
 
