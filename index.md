@@ -9,7 +9,7 @@ meetup-group: owasp-rajiv-gandhi-institute-of-petroleum-technology
 ---
 
 
-<img src="./assets/images/OWASPRGIPT.png"/>
+<img src="./assets/images/WIthout bg.png"/>
 
 
 ## Welcome
