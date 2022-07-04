@@ -28,7 +28,9 @@ We also encourage you to become a member or consider a [donation](#) to support 
 We are on the way to promote the flow and advent of knowledge on secure application development and cybersecurity.
 
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-<!-- {% include chapter_events.html group=page.meetup-group %} --> comming soon!!
+# Follow Us
+
+### Instagram
+<iframe src="https://www.instagram.com/owasprgipt/" title="Insta"></iframe>
+
 
