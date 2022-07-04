@@ -1,10 +1,12 @@
 ---
+
 title: Events
 displaytext: Events
 layout:  null
 tab: true
 order: 1
 tags: OWASP RGIPT
+
 ---
 
 # UPCOMING EVENTS:
