@@ -5,7 +5,7 @@ displaytext: Events
 layout:  null
 tab: true
 order: 1
-tags: OWASP RGIPT
+tags: OWASP Rajiv Gandhi Institute of Petroleum Technology
 
 ---
 
