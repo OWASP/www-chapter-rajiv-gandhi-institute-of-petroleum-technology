@@ -31,6 +31,5 @@ We are on the way to promote the flow and advent of knowledge on secure applicat
 # Follow Us
 
 ### Instagram
-<iframe src="https://www.instagram.com/owasprgipt/" title="Insta"></iframe>
-
+<iframe src="https://www.instagram.com/owasprgipt/" id="insta" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: static; visibility: visible; display: inline-block; width: 100%; height: 600px; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;" title="Insta Timeline"></iframe>
 
