@@ -4,7 +4,7 @@ title: Events
 displaytext: Events
 layout:  null
 tab: true
-order: 2
+order: 02
 tags: OWASP RGIPT Events
 
 ---
