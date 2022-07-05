@@ -10,6 +10,7 @@ tags: OWASP RGIPT Events
 ---
 
 # UPCOMING EVENTS:
+
 ### Metaverse of Learning
 | DATE | TOPIC | LINK |
 | --- | --- | --- |
@@ -17,6 +18,7 @@ tags: OWASP RGIPT Events
 
 
 # PAST EVENTS:
+
 ### Reliving the Childhood Euphoria
 
 ### The Unsung Heir, Season 1: A Hunt!
