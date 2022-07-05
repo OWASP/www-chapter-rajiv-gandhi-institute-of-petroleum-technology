@@ -5,7 +5,7 @@ displaytext: Events
 layout:  null
 tab: true
 order: 02
-tags: OWASP RGIPT Events
+tags: OWASP RGIPT
 
 ---
 
