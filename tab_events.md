@@ -5,7 +5,7 @@ displaytext: Events
 layout:  null
 tab: true
 order: 1
-tags: OWASP Rajiv Gandhi Institute of Petroleum Technology
+tags: OWASP RGIPT Events
 
 ---
 
@@ -18,4 +18,5 @@ tags: OWASP Rajiv Gandhi Institute of Petroleum Technology
 
 # PAST EVENTS:
 ### Reliving the Childhood Euphoria
+
 ### The Unsung Heir, Season 1: A Hunt!
