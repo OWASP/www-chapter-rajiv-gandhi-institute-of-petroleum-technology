@@ -12,9 +12,15 @@ tags: OWASP RGIPT
 # UPCOMING EVENTS:
 
 ### Metaverse of Learning
-| DATE | TOPIC | LINK |
-| --- | --- | --- |
-| July 08, 2022 | Introduction | [Meetup Group](https://www.meetup.com/owasp-rajiv-gandhi-institute-of-petroleum-technology) |
+<table cellpadding="5" cellspacing="0" border="1">
+  <tr><th>DATE</th>
+      <th width="50%">TOPIC</th>
+      <th>LINK</th></tr>
+  <tr><td>July 15, 2022</td>
+      <td>The Metaverse of Learning:
+        OWASP RGIPT First Meetup</td>
+      <td><a href="https://www.meetup.com/owasp-rajiv-gandhi-institute-of-petroleum-technology/events/287183091">RSVP Now</td></tr>
+</table>
 
 
 # PAST EVENTS:
