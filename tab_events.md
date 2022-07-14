@@ -14,7 +14,7 @@ tags: OWASP RGIPT
 ### Metaverse of Learning
 
 <p align="center">
-  <img src="assets/images/MetaverseOfLearning.jpg" width="500" height="700"> 
+  <img src="assets/images/MetaverseOfLearning.jpg" width="450" height="600"> 
 </p>
 
 | Date | Topic | Link |
