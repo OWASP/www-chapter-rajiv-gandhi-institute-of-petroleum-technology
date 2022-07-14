@@ -13,12 +13,16 @@ tags: OWASP RGIPT
 
 ### Metaverse of Learning
 
-<img src="assets/images/MetaverseOfLearning.jpg" align="center" width="500" height="500"> <br>
+<p align="center">
+  <img src="assets/images/MetaverseOfLearning.jpg" width="500" height="700"> 
+</p>
 
 | Date | Topic | Link |
 | --- | --- | --- |
 | July 15, 2022 | Introduction: OWASP RGIPT First Chapter Meetup | [RSVP Now](https://www.meetup.com/owasp-rajiv-gandhi-institute-of-petroleum-technology/events/287183091)|
 | July 16-17, 2022 | Blockchain A-Z: Intuition to Cryptocurrency | Stay tuned!|
+
+---
 
 # PAST EVENTS:
 
