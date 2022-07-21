@@ -19,9 +19,10 @@ tags: OWASP RGIPT
 
 | Date | Topic | Link |
 | --- | --- | --- |
-| July 15, 2022 | Introduction: OWASP RGIPT First Chapter Meetup | [RSVP Now](https://www.meetup.com/owasp-rajiv-gandhi-institute-of-petroleum-technology/events/287183091)|
-| July 16-17, 2022 | Blockchain A-Z: Intuition to Cryptocurrency | Stay tuned!|
-
+| July 15, 2022 | Introduction: OWASP RGIPT First Chapter Meetup | [Youtube](https://youtu.be/gvXmhfH-qVU)|
+| July 16, 2022 | Blockchain A-Z: Intuition to Cryptocurrency Day1 | [Youtube](https://youtu.be/CThmR1DOIyw)|
+| July 17, 2022 | Blockchain A-Z: Intuition to Cryptocurrency Day2 | [Youtube](https://youtu.be/RHSv0DV_A7U)|
+| July 21, 2022 | Blockchain A-Z: Intuition to Cryptocurrency Day3 | Stay tuned!|
 ---
 
 # PAST EVENTS:
