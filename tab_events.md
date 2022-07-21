@@ -23,6 +23,7 @@ tags: OWASP RGIPT
 | July 16, 2022 | Blockchain A-Z: Intuition to Cryptocurrency Day1 | [Youtube](https://youtu.be/CThmR1DOIyw)|
 | July 17, 2022 | Blockchain A-Z: Intuition to Cryptocurrency Day2 | [Youtube](https://youtu.be/RHSv0DV_A7U)|
 | July 21, 2022 | Blockchain A-Z: Intuition to Cryptocurrency Day3 | Stay tuned!|
+
 ---
 
 # PAST EVENTS:
