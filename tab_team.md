@@ -1,7 +1,7 @@
 ---
 
-title: Orientation
-displaytext: Orientation
+title: Team
+displaytext: Team
 layout:  null
 tab: true
 order: 06
