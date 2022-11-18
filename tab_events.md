@@ -9,14 +9,17 @@ tags: OWASP RGIPT
 
 ---
 
-# UPCOMING EVENTS:
+# OWASP ORIENTATION 2022:
 
-### Metaverse of Learning
+
+### Invitation: [Click Here](http://192.168.40.193:3005/)
 
 <p align="center">
-  <img src="assets/images/MetaverseOfLearning.jpg" width="450" height="600"> 
+  <img src="assets/images/To Know More.png" width="450" height="600"> 
 </p>
 
+
+# PAST EVENTS:
 | Date | Topic | Link |
 | --- | --- | --- |
 | July 15, 2022 | Introduction: OWASP RGIPT First Chapter Meetup | [Youtube](https://youtu.be/gvXmhfH-qVU)|
@@ -25,9 +28,6 @@ tags: OWASP RGIPT
 | July 21, 2022 | Blockchain A-Z: Intuition to Cryptocurrency Day3 | Stay tuned!|
 
 ---
-
-# PAST EVENTS:
-
 ### Reliving the Childhood Euphoria
 
 ### The Unsung Heir, Season 1: A Hunt!
