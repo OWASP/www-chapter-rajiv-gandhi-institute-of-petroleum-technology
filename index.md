@@ -7,11 +7,6 @@ region: Asia
 meetup-group: owasp-rajiv-gandhi-institute-of-petroleum-technology
 
 ---
-
-
-<img src="./assets/images/WIthout bg.png"/>
-
-
 ## Welcome
 Welcome to the homepage of the OWASP Student Chapter of Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais which was founded on 6 April 2022.
 
