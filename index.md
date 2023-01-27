@@ -24,6 +24,9 @@ We are on the way to promote the flow and advent of knowledge on secure applicat
 
 ### Upcoming Events
 
+## Next Meeting:
+{% include chapter_events.html group=page.meetup-group %}
+
 We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Channels ... :)
 
 
