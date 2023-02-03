@@ -9,14 +9,10 @@ tags: OWASP RGIPT
 
 ---
 
-# OWASP ORIENTATION 2022:
+## OWASP Chapter Meetup:
+### Invitation: [Click Here](https://www.meetup.com/owasp-rajiv-gandhi-institute-of-petroleum-technology/events/291381712/)
 
 
-### Invitation: [Click Here](http://192.168.40.193:3005/)
-
-<p align="center">
-  <img src="assets/images/To Know More.png" width="450" height="600"> 
-</p>
 
 
 # PAST EVENTS:
