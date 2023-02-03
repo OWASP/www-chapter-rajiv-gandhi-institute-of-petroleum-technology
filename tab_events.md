@@ -10,7 +10,7 @@ tags: OWASP RGIPT
 ---
 
 ## OWASP Chapter Meetup:
-### Invitation: [Click Here](https://www.meetup.com/owasp-rajiv-gandhi-institute-of-petroleum-technology/events/291381712/)
+### Meetup Link: [Click Here](https://www.meetup.com/owasp-rajiv-gandhi-institute-of-petroleum-technology/events/291381712/)
 
 
 
