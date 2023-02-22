@@ -19,4 +19,4 @@ If you wish to contact us, you can send a mail to any of the chapter leaders.
 5. Dr. Gargi Srivastava: <gargi.srivastava@owasp.org>
 
 If you are unable to reach the above email addresses for some reasons, you can drop a mail to 
-<owasp@rgipt.ac.in> 
+<owasp@rgipt.ac.in> or <rajiv-gandhi-institute-of-petroleum-technology-leaders@owasp.org>
