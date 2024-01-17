@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Rajiv Gandhi Institute of Petroleum Technology
 tags: OWASP RGIPT
 region: Asia
+country: India
 meetup-group: owasp-rajiv-gandhi-institute-of-petroleum-technology
 
 ---
@@ -11,7 +12,7 @@ meetup-group: owasp-rajiv-gandhi-institute-of-petroleum-technology
 Welcome to the homepage of the OWASP Student Chapter of Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais which was founded on 6 April 2022.
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 To participate in OWASP RGIPT upcoming events, please refer to Upcoming Events. An archive of our past events is available. 
 
 ## Community
