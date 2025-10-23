@@ -1,0 +1,21 @@
+leaders:
+  - name: Gargi Srivastava
+    email: gargi.srivastava@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Uttar Pradesh
+  city: Jais
+  latitude: 26.26457065
+  longitude: 81.50909990632013
+meetup_group: owasp-rajiv-gandhi-institute-of-petroleum-technology
+name: OWASP Rajiv Gandhi Institute of Petroleum Technology
+repositories:
+  - name: www-chapter-rajiv-gandhi-institute-of-petroleum-technology
+    url: https://github.com/OWASP/www-chapter-rajiv-gandhi-institute-of-petroleum-technology
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - RGIPT
+  - custom-tag-1
+website: https://owasp.org/www-chapter-rajiv-gandhi-institute-of-petroleum-technology
